@@ -1,4 +1,3 @@
-
 ## System Architecture & Concepts
 
 This application serves as a complete prototype for an end-to-end AI analytics and decision engine. The table below outlines how each core component functions within the local script and maps to its real-world production counterpart:
