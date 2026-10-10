@@ -1,6 +1,4 @@
-<<<<<<< HEAD
 
-=======
 ## System Architecture & Concepts
 
 This application serves as a complete prototype for an end-to-end AI analytics and decision engine. The table below outlines how each core component functions within the local script and maps to its real-world production counterpart:
@@ -13,4 +11,4 @@ This application serves as a complete prototype for an end-to-end AI analytics a
 | **`analyze_day()`** | Encapsulates feature extraction, prediction, and LLM guidance into a single function. | Core application API endpoint |
 | **Batch Processing** | Executes the full pipeline sequentially over dataset iterations and collects outputs. | Scheduled nightly batch jobs andETL pipelines |
 | **Summary Block** | Aggregates individual results across multi-day windows to highlight macro trends. | Production analytics dashboards and reporting engines |
->>>>>>> 75acbce (docs: update README with clean system architecture breakdown)
+
